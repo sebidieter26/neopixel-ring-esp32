@@ -2,6 +2,7 @@
 Project created personally by me in a college course
 
 **Highlights**
+
 First things first, I have divided my objective into smaller tasks : 
 
 - Researching about the hardware and the software I was going to use
