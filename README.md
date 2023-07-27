@@ -32,3 +32,7 @@ First things first, I have divided my objective into smaller tasks :
 
 
 2. Writing, compiling and uploading the source code
+
+
+https://github.com/sebidieter26/neopixel-ring-esp32/assets/107187446/b39c96f8-2d09-4654-abf2-589e6d5bab2d
+
